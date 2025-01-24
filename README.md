@@ -1,10 +1,11 @@
 # Projet de Sélection de Caractéristiques et Évaluation de Classification
 
 ## Aperçu
-Ce projet explore l'application de trois méthodes de sélection de caractéristiques :
+Ce projet explore l'application des méthodes de sélection de caractéristiques :
 1. Score de Fisher
 2. Chi-Carré (Chi-Square)
 3. Information Mutuelle
+4. Forward Feature Selection
 
 Chaque méthode de sélection de caractéristiques est suivie par l'évaluation de trois algorithmes de classification :
 - Random Forest
