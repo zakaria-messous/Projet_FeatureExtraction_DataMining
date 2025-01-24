@@ -1,0 +1,12 @@
+Modèle : Random Forest
+Métriques :
+{'High': {'precision': 0.7307692307692307, 'recall': 0.6666666666666666, 'f1-score': 0.6972477064220184, 'support': 57.0}, 'Low': {'precision': 0.41304347826086957, 'recall': 0.35185185185185186, 'f1-score': 0.38, 'support': 54.0}, 'Medium': {'precision': 0.34545454545454546, 'recall': 0.4523809523809524, 'f1-score': 0.3917525773195876, 'support': 42.0}, 'accuracy': 0.49673202614379086, 'macro avg': {'precision': 0.4964224181615486, 'recall': 0.490299823633157, 'f1-score': 0.48966676124720204, 'support': 153.0}, 'weighted avg': {'precision': 0.5128580711700917, 'recall': 0.49673202614379086, 'f1-score': 0.5014165196959328, 'support': 153.0}}
+
+Modèle : SVM
+Métriques :
+{'High': {'precision': 0.5081967213114754, 'recall': 0.543859649122807, 'f1-score': 0.5254237288135594, 'support': 57.0}, 'Low': {'precision': 0.5238095238095238, 'recall': 0.2037037037037037, 'f1-score': 0.29333333333333333, 'support': 54.0}, 'Medium': {'precision': 0.352112676056338, 'recall': 0.5952380952380952, 'f1-score': 0.4424778761061947, 'support': 42.0}, 'accuracy': 0.43790849673202614, 'macro avg': {'precision': 0.46137297372577907, 'recall': 0.447600482688202, 'f1-score': 0.4204116460843625, 'support': 153.0}, 'weighted avg': {'precision': 0.47086052153486657, 'recall': 0.43790849673202614, 'f1-score': 0.4207400218224383, 'support': 153.0}}
+
+Modèle : Multinomial NB
+Métriques :
+{'High': {'precision': 0.5, 'recall': 0.38596491228070173, 'f1-score': 0.43564356435643564, 'support': 57.0}, 'Low': {'precision': 0.46153846153846156, 'recall': 0.2222222222222222, 'f1-score': 0.3, 'support': 54.0}, 'Medium': {'precision': 0.3253012048192771, 'recall': 0.6428571428571429, 'f1-score': 0.432, 'support': 42.0}, 'accuracy': 0.39869281045751637, 'macro avg': {'precision': 0.42894655545257954, 'recall': 0.4170147591200222, 'f1-score': 0.3892145214521452, 'support': 153.0}, 'weighted avg': {'precision': 0.4384688073561213, 'recall': 0.39869281045751637, 'f1-score': 0.3867691710347505, 'support': 153.0}}
+

@@ -1,0 +1,12 @@
+Model: Random Forest
+Metrics:
+{'High': {'precision': 0.6724137931034483, 'recall': 0.6842105263157895, 'f1-score': 0.6782608695652174, 'support': 57.0}, 'Low': {'precision': 0.32432432432432434, 'recall': 0.2222222222222222, 'f1-score': 0.26373626373626374, 'support': 54.0}, 'Medium': {'precision': 0.3103448275862069, 'recall': 0.42857142857142855, 'f1-score': 0.36, 'support': 42.0}, 'accuracy': 0.45098039215686275, 'macro avg': {'precision': 0.4356943150046599, 'recall': 0.44500139236981345, 'f1-score': 0.43399904443382703, 'support': 153.0}, 'weighted avg': {'precision': 0.45016720574529906, 'recall': 0.45098039215686275, 'f1-score': 0.4445923386076839, 'support': 153.0}}
+
+Model: SVM
+Metrics:
+{'High': {'precision': 0.4897959183673469, 'recall': 0.42105263157894735, 'f1-score': 0.4528301886792453, 'support': 57.0}, 'Low': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 54.0}, 'Medium': {'precision': 0.2980769230769231, 'recall': 0.7380952380952381, 'f1-score': 0.4246575342465753, 'support': 42.0}, 'accuracy': 0.35947712418300654, 'macro avg': {'precision': 0.26262428048142333, 'recall': 0.3863826232247285, 'f1-score': 0.2924959076419402, 'support': 153.0}, 'weighted avg': {'precision': 0.2642980269030689, 'recall': 0.35947712418300654, 'f1-score': 0.2852740993011317, 'support': 153.0}}
+
+Model: Multinomial NB
+Metrics:
+{'High': {'precision': 0.5121951219512195, 'recall': 0.3684210526315789, 'f1-score': 0.42857142857142855, 'support': 57.0}, 'Low': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 54.0}, 'Medium': {'precision': 0.29245283018867924, 'recall': 0.7380952380952381, 'f1-score': 0.4189189189189189, 'support': 42.0}, 'accuracy': 0.33986928104575165, 'macro avg': {'precision': 0.26821598404663294, 'recall': 0.3688387635756057, 'f1-score': 0.2824967824967825, 'support': 153.0}, 'weighted avg': {'precision': 0.2710989596022486, 'recall': 0.33986928104575165, 'f1-score': 0.2746612158376864, 'support': 153.0}}
+

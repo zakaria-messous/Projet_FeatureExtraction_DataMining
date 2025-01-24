@@ -1,0 +1,12 @@
+Model: Random Forest
+Metrics:
+{'High': {'precision': 0.7307692307692307, 'recall': 0.6666666666666666, 'f1-score': 0.6972477064220184, 'support': 57.0}, 'Low': {'precision': 0.4583333333333333, 'recall': 0.4074074074074074, 'f1-score': 0.43137254901960786, 'support': 54.0}, 'Medium': {'precision': 0.33962264150943394, 'recall': 0.42857142857142855, 'f1-score': 0.37894736842105264, 'support': 42.0}, 'accuracy': 0.5098039215686274, 'macro avg': {'precision': 0.5095750685373327, 'recall': 0.5008818342151675, 'f1-score': 0.5025225412875597, 'support': 153.0}, 'weighted avg': {'precision': 0.5272418110930875, 'recall': 0.5098039215686274, 'f1-score': 0.5160328522012947, 'support': 153.0}}
+
+Model: SVM
+Metrics:
+{'High': {'precision': 0.5333333333333333, 'recall': 0.42105263157894735, 'f1-score': 0.47058823529411764, 'support': 57.0}, 'Low': {'precision': 0.5714285714285714, 'recall': 0.2222222222222222, 'f1-score': 0.32, 'support': 54.0}, 'Medium': {'precision': 0.3563218390804598, 'recall': 0.7380952380952381, 'f1-score': 0.4806201550387597, 'support': 42.0}, 'accuracy': 0.43790849673202614, 'macro avg': {'precision': 0.4870279146141215, 'recall': 0.4604566972988026, 'f1-score': 0.42373613011095906, 'support': 153.0}, 'weighted avg': {'precision': 0.49818732090537365, 'recall': 0.43790849673202614, 'f1-score': 0.42019330668884064, 'support': 153.0}}
+
+Model: Multinomial NB
+Metrics:
+{'High': {'precision': 0.5333333333333333, 'recall': 0.42105263157894735, 'f1-score': 0.47058823529411764, 'support': 57.0}, 'Low': {'precision': 0.5454545454545454, 'recall': 0.2222222222222222, 'f1-score': 0.3157894736842105, 'support': 54.0}, 'Medium': {'precision': 0.3372093023255814, 'recall': 0.6904761904761905, 'f1-score': 0.453125, 'support': 42.0}, 'accuracy': 0.42483660130718953, 'macro avg': {'precision': 0.4719990603711533, 'recall': 0.44458368142578664, 'f1-score': 0.41316756965944273, 'support': 153.0}, 'weighted avg': {'precision': 0.48377343890339786, 'recall': 0.42483660130718953, 'f1-score': 0.41115954895890244, 'support': 153.0}}
+
